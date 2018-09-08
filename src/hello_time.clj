@@ -10,6 +10,7 @@
 ; test 
 ; another test
 ; add a 3rd comment line from github itself
+; add a 4th comment line
 
 (defn time-str
   "Returns a string representation of a datetime in the local time zone."
